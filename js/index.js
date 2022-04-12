@@ -26,3 +26,5 @@ console.log(typeof someData2);
 // type object
 let user = {name: 'Alex', age: 25};
 console.log(typeof user, user);
+
+console.log('Hello, GITHAB');
